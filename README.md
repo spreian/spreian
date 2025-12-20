@@ -8,9 +8,6 @@ In 2024, I achieved the qualification to act as managing director under trade la
 
 Recently I started my own business as a GDP & GMP Consultant and Freelance Data Analyst. I support clients to ensure Quality and Compliance in GDP and GMP regulated environments.
 
-Imprint: https://www.anton-spreitzer.at/impressum/
-Privacy policy: https://www.anton-spreitzer.at/datenschutzerklaerung/
-
 
 <!---
 spreian/spreian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
