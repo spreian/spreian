@@ -6,7 +6,7 @@ Since I was repeatedly confronted with data analysis in my career, I decided at 
 
 In 2024, I achieved the qualification to act as managing director under trade law for medicinal products and medical devices ('Gewerberechtlicher Geschäftsführer Arzneimittel/Medizinprodukte').
 
-Recently I started my own business as a GDP & GMP Consultant and Freelance Data Analyst. I build scalable, inspection-ready Quality Systems in GxP.
+Recently I started my own business as a GDP & GMP Consultant and Freelance Data Analyst. I support companies building scalable, inspection-ready Quality Systems in GxP.
 
 
 <!---
